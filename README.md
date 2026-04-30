@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Abdullah, a Web Developer developer based in UAE.
-I mainly focus on frontend - React, Javascript, Bootstrap and some experience in Django.
+I'm Abdullah, a Web Developer based in the UAE.
+I mainly focus on frontend - React, Javascript, Tailwind and some experience in Django.
 I also use Figma for UI design and affinity for brainstorming and framer motion for animations.
 
-This is the profile that I use to upload my Projects & coding exercises also any other thing that I'm developing on the side, so everything here is made from scratch as far scratch goes with frameworks and coding exercises. No heavy use of AI and definitely no copy-paste.
+This is the profile that I use to upload my Projects & coding exercises also any other thing that I'm developing on the side, so everything here is made from scratch as far scratch goes with frameworks and coding exercises.
 
 <br/>
 
